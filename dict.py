@@ -10,3 +10,8 @@ info={
 }
 print(info)
 print(info["Course"])
+print(type("CGPA"))
+print(type(info))
+print(type(6.2))
+
+#nested dictionary
