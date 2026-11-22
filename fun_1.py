@@ -1,9 +1,9 @@
-#function concept
-def sum(a,b):
+#function definition
+def sum(a,b): #parameters
     sum=a+b
     print(sum)
     return sum
-sum(1,3)
+sum(1,3) # arguments=(1,3) : function call 
 
 def multi(a,b):
     return a*b
@@ -20,4 +20,4 @@ def Avg(a,b,c):
     return (a+b+c)/3
 Avg(1,2,3)
 
-Avg(5,9,10)
+Avg(5,11,10)
