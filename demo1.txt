@@ -1,0 +1,9 @@
+class 'str'>
+PS D:\Python\Python-Practice> Python file_2_write.py
+Traceback (most recent call last):
+  File "D:\Python\Python-Practice\file_2_write.py", line 3, in <module>
+    data =f.read()
+io.UnsupportedOperation: not readable
+PS D:\Python\Python-Practice> Python file_2_write.py
+PS D:\Python\Python-Practice> Python file_2_write.py
+PS D:\Python\Python-Practice> 
